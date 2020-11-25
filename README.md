@@ -1,4 +1,4 @@
-# programs C program to print all natural numbers from 1 to n
+# programs 1. C program to print all natural numbers from 1 to n
  */
 
 #include <stdio.h>
