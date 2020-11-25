@@ -1,4 +1,4 @@
-# programs 
+#Assignment-2 programs
 
 #1. C program to print all natural numbers from 1 to n
  
