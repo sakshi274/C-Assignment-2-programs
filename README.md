@@ -93,6 +93,7 @@ int main()
 
 {  
     int i; 
+    
     printf("Printing Odd numbers between 1 to 100\n");  
    
     for(i = 1; i <= 100; i++)
